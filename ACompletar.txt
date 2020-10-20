@@ -1,0 +1,18 @@
+A completar:
+	Eliminar almenos 1 archivo del repositorio
+
+	Renombrar almenos 1 archivo
+
+	Crear una carpeta y mandar al .gitignore
+	
+	Deshacer una confirmacion	c/u
+	
+	Añadir un cambio y modificarlo	c/u
+
+	Retirar del area de preparacion una modificacion	c/u
+
+	Crear rama local, llevar cambios a rama master y borrar rama local c/u
+
+	Crear rama alternativa a Master y trabajar en ella tambien, luego llevar los cambios a Master sin borrar la misma
+
+	
