@@ -1,13 +1,11 @@
 A completar:
 	Eliminar almenos 1 archivo del repositorio
 	
-	Deshacer una confirmacion	c/u
+	Deshacer una confirmacion	c/u		gir reset (habria que especificar cual)
 	
-	Añadir un cambio y modificarlo	c/u
+	Añadir un cambio y modificarlo	c/u		git commit --amend -m "mensaje"
 
-	Retirar del area de preparacion una modificacion	c/u
-
-	Crear rama local, llevar cambios a rama master y borrar rama local c/u
+	Retirar del area de preparacion una modificacion	c/u 
 
 	Crear rama alternativa a Master y trabajar en ella tambien, luego llevar los cambios a Master sin borrar la misma
 
