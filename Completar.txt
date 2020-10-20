@@ -1,9 +1,5 @@
 A completar:
 	Eliminar almenos 1 archivo del repositorio
-
-	Renombrar almenos 1 archivo
-
-	Crear una carpeta y mandar al .gitignore
 	
 	Deshacer una confirmacion	c/u
 	
