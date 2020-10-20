@@ -1,5 +1,4 @@
 A completar:
-	Eliminar almenos 1 archivo del repositorio
 	
 	Deshacer una confirmacion	c/u		gir reset (habria que especificar cual)
 	
