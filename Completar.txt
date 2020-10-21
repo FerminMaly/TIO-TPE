@@ -5,3 +5,5 @@ A completar:
 	Añadir un cambio y modificarlo	c/u		git commit --amend -m "mensaje"  AGUS Y FERMIN HECHO
 
 	Retirar del area de preparacion una modificacion	c/u 
+
+blablablaalalajajakja
