@@ -1,8 +1,8 @@
 A completar:
 	
-	Deshacer una confirmacion	c/u		gir reset (habria que especificar cual)
+	Deshacer una confirmacion	c/u		gir reset (habria que especificar cual) (falta marcos)
 	
-	Añadir un cambio y modificarlo	c/u		git commit --amend -m "mensaje"
+	Añadir un cambio y modificarlo	c/u		git commit --amend -m "mensaje" (falta marcos)
 
 	Retirar del area de preparacion una modificacion	c/u 
 
